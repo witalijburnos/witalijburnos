@@ -5,7 +5,7 @@
 
 
 ### :man_technologist: My name is Witalij Burnos.  
-### :tv: I'm JavaScript developer.
+### :tv: I'm QA Engineer.
 ### :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-WBURNOS-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/witalij-burnos/)
 
 <br>
